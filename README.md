@@ -12,9 +12,11 @@ Research snapshot: November 16, 2026. Ratings are source-specific and not blende
 
 ## Files
 
-- `index.html`: the site
+- `index.html`: the guide (pick your problem, top six, all 17, prices, red flags, checklist)
+- `research/dashboard.html`: review-count chart, side-by-side compare for up to four companies, every source link
+- `styles.css`: shared design tokens and styles (light and dark, mobile first)
+- `site.js`: shared helpers and the company detail sheet
 - `data/companies.js`: company research data
-- `research/dashboard.html`: full interactive research dashboard
 
 ## Run locally
 
